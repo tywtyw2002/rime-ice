@@ -24,13 +24,13 @@ type lemma struct {
 
 const (
 	mark        = "# +_+" // 词库中的标记符号，表示从开始检查或排序
-	HanziPath = "/Users/dvel/Library/Rime/cn_dicts/8105.dict.yaml"
-	BasePath  = "/Users/dvel/Library/Rime/cn_dicts/base.dict.yaml"
-	SogouPath = "/Users/dvel/Library/Rime/cn_dicts/sogou.dict.yaml"
-	ExtPath     = "/Users/dvel/Library/Rime/cn_dicts/ext.dict.yaml"
-	TencentPath = "/Users/dvel/Library/Rime/cn_dicts/tencent.dict.yaml"
-	EmojiPath   = "/Users/dvel/Library/Rime/opencc/emoji-map.txt"
-	EnPath = "/Users/dvel/Library/Rime/en_dicts/en.dict.yaml"
+	HanziPath = "/Users/tyw/Library/Rime/cn_dicts/8105.dict.yaml"
+	BasePath  = "/Users/tyw/Library/Rime/cn_dicts/base.dict.yaml"
+	SogouPath = "/Users/tyw/Library/Rime/cn_dicts/sogou.dict.yaml"
+	ExtPath     = "/Users/tyw/Library/Rime/cn_dicts/ext.dict.yaml"
+	TencentPath = "/Users/tyw/Library/Rime/cn_dicts/tencent.dict.yaml"
+	EmojiPath   = "/Users/tyw/Library/Rime/opencc/emoji-map.txt"
+	EnPath = "/Users/tyw/Library/Rime/en_dicts/en.dict.yaml"
 
 	DefaultWeight = 100 // sogou、ext、tencet 词库中默认的权重数值
 )

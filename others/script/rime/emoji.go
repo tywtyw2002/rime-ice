@@ -11,8 +11,8 @@ import (
 	"unicode/utf8"
 )
 
-var emojiTXT = "/Users/dvel/Library/Rime/opencc/emoji.txt"
-var mappingTXT = "/Users/dvel/Library/Rime/opencc/emoji-map.txt"
+var emojiTXT = "/Users/tyw/Library/Rime/opencc/emoji.txt"
+var mappingTXT = "/Users/tyw/Library/Rime/opencc/emoji-map.txt"
 
 type OrderedMap struct {
 	keys []string
